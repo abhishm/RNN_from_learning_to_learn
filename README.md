@@ -1,0 +1,1 @@
+In this repositroy, I will be using the paper "Learning to learn by gradient descent by gradient descent" to train a one layer RNN and I will explore how the learning can be mapped to a three layer RNN.
